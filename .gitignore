@@ -1,0 +1,8 @@
+# Ignore resource and test directories
+resource/
+test/
+
+# Ignore specific files
+package.xml
+setup.cfg
+setup.py
